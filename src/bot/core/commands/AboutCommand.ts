@@ -1,4 +1,4 @@
-import { Kernel } from '../receivers/Kernel';
+import { Kernel } from '../modules/Kernel';
 import {ICommand} from './ICommand'
 
 

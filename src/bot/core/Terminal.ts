@@ -4,7 +4,7 @@ import { HelpCommand } from './commands/HelpCommand';
 import { MenuCommand } from './commands/MenuCommand';
 
 import { SettingsCommand } from './commands/SettingsCommand';
-import { Kernel } from './receivers/Kernel';
+import { Kernel } from './modules/Kernel';
 
 export class Terminal {
     private commands: ICommand[] = [];
