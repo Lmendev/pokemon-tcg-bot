@@ -1,1 +1,1 @@
-# pokemon-tcg-bot
+# 🤖 Pokemon TCG Bot
